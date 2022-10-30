@@ -1,0 +1,16 @@
+.contentLi {
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name, .description {
+    margin: 0;
+}
+
+.price {
+    color: rgb(255, 136, 0);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
